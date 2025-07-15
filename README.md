@@ -1,7 +1,8 @@
 # try_luck
 Guess the Number game in three attempts.
 
-#How It Works:
+How It Works:
+
 The program picks a random number from 1 to 10.
 
 The user gets 3 chances to guess it.
